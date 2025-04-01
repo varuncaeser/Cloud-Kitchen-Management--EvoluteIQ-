@@ -23,7 +23,7 @@ This project automates cloud kitchen operations using EvoluteIQ's no-code/low-co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Cloud-Kitchen-Management-Automation.git
+   git clone https://github.com/yourusername/Cloud-Kitchen-Managemen--EvoluteIQ-.git
    ```
 
 2. Install dependencies (if any) and set up the database.
